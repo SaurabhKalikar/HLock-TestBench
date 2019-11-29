@@ -1,0 +1,19 @@
+API:
+
+1. Lock 
+	LockAll(list of lock variables)
+	{
+		get their type 
+	}
+
+
+2. Protocol
+	Subprotocol switches: dom, opt, fine-grain, k-level
+	IL traversals
+3. Threading
+4. 
+
+Ways to comment-out certain portion of the code.
+
+
+Deadlock detection and recovery code for IL
